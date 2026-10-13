@@ -1,4 +1,4 @@
-# PieceMe 用户协议与隐私政策
+# 拼忆（PieceMe）用户协议与隐私政策
 
 - 用户协议：https://shop1111.github.io/pieceme-legal/terms.html
 - 隐私政策：https://shop1111.github.io/pieceme-legal/privacy.html
